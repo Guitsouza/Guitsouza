@@ -2,6 +2,7 @@
 <h2 align="center">Welcome to my profile! 👋</h2>
 <h3 align="center">I'm a passionate developer and computer scientist from Brazil. 🇧🇷</h3>
 
+
 ###
 
 <img align="left" height="300" src="https://imagens.mdig.com.br/arte/GIFs_contam_historinhas_cotidiano_Guillaume_Kurkdjian_017.gif"  />
